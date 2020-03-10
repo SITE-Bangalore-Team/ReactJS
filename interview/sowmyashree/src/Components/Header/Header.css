@@ -1,0 +1,25 @@
+.Header {
+    margin: 10px;
+    height: 32px;
+    padding: 10px;
+    background-color: #B8B8B8;
+}
+
+.Home-logo {
+    width: 30px;
+    float: left;
+}
+
+.User-name {
+    float: right;
+    margin-right: 10px;
+}
+
+.Logo {
+    float: left;
+}
+
+.IMDB-logo {
+    width: 30px;
+    float: left;
+}
